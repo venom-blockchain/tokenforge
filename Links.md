@@ -11,16 +11,16 @@ Explorer:\
 https://venomscan.com
 
 Buy native venom on CEX:\
-https://www.gate.io\
-https://www.okx.com\
+https://www.gate.io \
+https://www.okx.com \
 https://www.mexc.com
 
 Exchange your EVM assets to native venom:\
 https://venomget.com
 
 Buy wrapped venom on CEX\
-https://www.bybit.com\
-https://www.kucoin.com\
+https://www.bybit.com \
+https://www.kucoin.com \
 https://www.coinex.com
 
 Bridge EVM assets to venom blockchain:\
@@ -59,7 +59,7 @@ Web3-like interface:\
 https://github.com/venom-blockchain/inpage-provider
 
 Web3-like interface docs:\
-https://provider-docs.broxus.com/
+https://provider-docs.broxus.com
 
 Inpage provide playground:\
 https://inpage-provider-test.venominternal.com
