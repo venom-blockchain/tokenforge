@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
+  "name": "TokenForge Venom 2024",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "venom",
+    "tip3",
+    "tokens",
+    "hackathon",
+    "tokenforge"
+  ],
+  "timestamp": "2024-04-17T00:00:00.000Z",
+  "tokens": [
+    {
+      "name": "VenoMoon",
+      "chainId": 1,
+      "symbol": "VNM",
+      "decimals": 9,
+      "address": "0:29a4dc828ca30da4fbd62f46d1554cbc93b4e863441eeabd8a52be2c9d56e12e",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/VNM/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "example"
+    }
+  ]
+}
