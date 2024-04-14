@@ -77,3 +77,17 @@ https://github.com/broxus/nekoton-python
 
 Python SDK docs:\
 https://nekoton-py-docs.broxus.com
+
+## Endpoints
+
+graphql endpoint:\
+https://gql.venom.foundation/graphql
+
+graphql docs:\
+https://docs.venom.foundation/build/development-guides/using-evercloud-graphql-api-to-work-with-venom/graphql-api-guides/#graphql-samples-and-guides
+
+jrpc endpoint:\
+https://jrpc.venom.foundation
+
+jrpc docs:\
+https://github.com/broxus/everscale-jrpc?tab=readme-ov-file#methods
