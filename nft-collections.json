@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "address": "0:f283ba1b50a520b591f241a8e56ee4b3207d36a7ded0abef0e0f17c8a44ab3fc",
+      "title": "[EXAMPLE] Venom-Punks.com",
+      "description": "[EXAMPLE] Venom-Punks.com generic collection on Venom Blockchain",
+      "preview": {
+        "source": "https://api.venom-punks.com/generatedBig/666_big.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://api.venom-punks.com/generatedBig/666_big.png",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://venom-punks.com/"
+    }
+  ]
+}
