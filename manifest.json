@@ -16,15 +16,26 @@
   "timestamp": "2024-04-17T00:00:00.000Z",
   "tokens": [
     {
-      "name": "VenoMoon",
+      "name": "Wrapped Venom",
       "chainId": 1,
-      "symbol": "VNM",
+      "symbol": "WVENOM",
       "decimals": 9,
-      "address": "0:29a4dc828ca30da4fbd62f46d1554cbc93b4e863441eeabd8a52be2c9d56e12e",
-      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/VNM/logo.svg",
+      "address": "0:77d36848bb159fa485628bc38dc37eadb74befa514395e09910f601b841f749e",
+      "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/WVENOM/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "example"
+      "vendor": "venom"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 1,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0:8a4ed4483500caf2d4bb4b56c84df41009cc3d0ed6a9de05d853e26a30faeced",
+      "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/USDT/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
     }
   ]
 }

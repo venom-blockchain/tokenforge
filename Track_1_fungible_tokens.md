@@ -41,17 +41,38 @@ This will disable mint and burnByRoot operations.
 
 ## Create DEX pair with venom token
 
-TODO:
+https://docs.web3.world/liquidity-providing/how-to-create-a-new-liquidity-pool
+
+You can create pairs with WVENOM or\and USDT
 
 ## Add token to hackathon whitelist
 
 Create PR to:\
-https://github.com/venom-blockchain/tokenforge
+https://github.com/venom-blockchain/tokenforge/blob/main/manifest.json
 
 Sample:
 ```
-TODO
+    {
+      "name": "TokenName",
+      "chainId": 1,
+      "symbol": "VNM",
+      "decimals": 9,
+      "address": "0:29a4dc828ca30da4fbd62f46d1554cbc93b4e863441eeabd8a52be2c9d56e12e",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/VNM/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "example"
+    }
 ```
+- ```name``` - token name
+- ```chainId``` - 1 for venom mainnet
+- ```symbol``` - token symbol
+- ```decimals``` - token decimals
+- ```address``` - token root address
+- ```logoURI``` - url to logo, pls put logo to *icons* folder
+- ```version``` - 5 it's constatnt
+- ```verified``` - false
+- ```vendor``` - Team name or other word (tokenforge for example). Don't use venom name. 
 
 Wait for the PR to be accepted.
 
