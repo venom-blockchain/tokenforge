@@ -43,7 +43,10 @@ This will disable mint and burnByRoot operations.
 
 https://docs.web3.world/liquidity-providing/how-to-create-a-new-liquidity-pool
 
-You can create pairs with WVENOM or\and USDT
+You need to create pair to WVENOM. 
+
+> Important! Only WVENOM pair will be used in the jury's evaluation
+
 
 ## Add token to hackathon whitelist
 
@@ -77,4 +80,6 @@ Sample:
 Wait for the PR to be accepted.
 
 > Congratulations. Your token has been created and added to our dashboard.
+
+# What next?
 
