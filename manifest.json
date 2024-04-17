@@ -36,6 +36,17 @@
       "version": 5,
       "verified": true,
       "vendor": "venom"
-    }
+    },
+     {
+      "name": "Cat Nitizen",
+      "chainId": 1,
+      "symbol": "CATID",
+      "decimals": 18,
+      "address": "0:21b18cd97fa5823326e97cfe636456dbea76088c4d122438306ae6dae08dd422",
+      "logoURI": "https://catnitizen.com/image/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "Cat Nitizen Indonesia"
+    },
   ]
 }
