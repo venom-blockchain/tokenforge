@@ -49,6 +49,15 @@ You need to create pair to WVENOM and\or USDT.
 
 > Important! Only WVENOM and USDT pairs will be used in the jury's evaluation
 
+## Lock or burn your LP tokens
+
+Send LP tokens to zero address for burn
+```
+0:0000000000000000000000000000000000000000000000000000000000000000
+```
+
+You can lock it use https://locker.venomoon.lol\
+(!) This is a dapp of an independent participant, it takes a commission 100 venom for use
 
 ## Add token to hackathon whitelist
 
@@ -81,24 +90,23 @@ Sample:
 
 Wait for the PR to be accepted.
 
+Logo size must be less or equals 100kb
+
 > Congratulations. Your token has been created and added to our dashboard.
 
-## Lock or burn your LP tokens
-
-Send LP tokens to zero address for burn
-```
-0:0000000000000000000000000000000000000000000000000000000000000000
-```
-
-You can lock it use https://locker.venomoon.lol\
-(!) This is a dapp of an independent participant, it takes a commission 100 venom for use
-
 # What next (recommendations)?
+
+## Find your token on dexscreener
+
+https://dexscreener.com/
 
 ## Set up Vesting 
 
 Set up vesting for command tokens and other (depends on your tokenomics).\
 https://web3.world/vesting/start
+
+>  It's highly recommended. Recommended lock time more that 1 week.
+
 
 ## Automate your trading
 You can use python scripts:\
