@@ -43,9 +43,9 @@ This will disable mint and burnByRoot operations.
 
 https://docs.web3.world/liquidity-providing/how-to-create-a-new-liquidity-pool
 
-You need to create pair to WVENOM. 
+You need to create pair to WVENOM and\or USDT. 
 
-> Important! Only WVENOM pair will be used in the jury's evaluation
+> Important! Only WVENOM and USDT pairs will be used in the jury's evaluation
 
 
 ## Add token to hackathon whitelist
@@ -82,4 +82,23 @@ Wait for the PR to be accepted.
 > Congratulations. Your token has been created and added to our dashboard.
 
 # What next?
+
+## Lock or burn your LP tokens
+
+Send LP tokens to zero address for burn
+```
+0:0000000000000000000000000000000000000000000000000000000000000000
+```
+
+You can lock it use https://locker.venomoon.lol\
+(!) This is a dapp of an independent participant, it takes a commission 100 venom for use
+
+## Set up Vesting 
+
+Set up vesting for command tokens and other (depends on your tokenomics).\
+https://web3.world/vesting/start
+
+## Automate your trading
+You can use python scripts:\
+https://github.com/30mb1/venom-tools
 
