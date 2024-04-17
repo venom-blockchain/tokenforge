@@ -91,6 +91,39 @@
       "version": 5,
       "verified": false,
       "vendor": "Assetant"
+    },
+    {
+      "name": "dEquity",
+      "chainId": 1,
+      "symbol": "DEQTY",
+      "decimals": 6,
+      "address": "0:485826ec0bd8430c09155bf53ee28027107de549f2d1ba1863aac5bdcf50290b",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/DEQTY/logo.svg",
+      "version": 1,
+      "verified": false,
+      "vendor": "dEquity"
+    },
+    {
+      "name": "Wrapped USDT",
+      "chainId": 1,
+      "symbol": "wUSD",
+      "decimals": 6,
+      "address": "0:fa04a0c54bd9edd9b56c961b106c51aaa3d3fb6f8f96a534393097c4c8c23654",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/wUSD/logo.svg",
+      "version": 1,
+      "verified": false,
+      "vendor": "dEquity"
+    },
+    {
+      "name": "W3W-LP-DEQTY-wUSD",
+      "chainId": 1,
+      "symbol": "W3W-LP-DEQTY-wUSD",
+      "decimals": 9,
+      "address": "0:e1e2c923d462395e695aac5fff953260c403ea34b332558a9d6c1f43607db295",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/W3W-LP-DEQTY-wUSD/logo.svg",
+      "version": 1,
+      "verified": false,
+      "vendor": "dEquity"
     }
   ]
 }    
