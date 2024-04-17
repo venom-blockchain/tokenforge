@@ -51,7 +51,7 @@
     {
       "name": "NomVe",
       "chainId": 1,
-      "symbol": "",
+      "symbol": "NOMVE",
       "decimals": 9,
       "address": "0:2bad9d702819b3ca94759e914a3257a7e23a0be9f9d43534a914d7c4c0d9ab10",
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/venom/0:2bad9d702819b3ca94759e914a3257a7e23a0be9f9d43534a914d7c4c0d9ab10.png?size=lg&key=0c527a",
