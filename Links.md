@@ -53,6 +53,9 @@ Jetbrains plugin:\
 https://plugins.jetbrains.com/plugin/20696-t-sol
 
 
+NFT smart contracts:\
+https://github.com/blockchain-family/nft-marketplace-contracts
+
 ## Frontend developer
 
 Web3-like interface:\
@@ -77,6 +80,9 @@ https://github.com/broxus/nekoton-python
 
 Python SDK docs:\
 https://nekoton-py-docs.broxus.com
+
+Python utils for tip3:\
+https://github.com/30mb1/venom-tools
 
 ## Endpoints
 
