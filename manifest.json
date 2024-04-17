@@ -58,6 +58,17 @@
       "version": 5,
       "verified": false,
       "vendor": "Masko"
+    },
+    {
+      "name": "Mentor AI",
+      "chainId": 1,
+      "symbol": "AI-MENTR",
+      "decimals": 18,
+      "address": "0:41a9c893bda318aaf781f5a1d3797b83ce57de13135ba4d2031b045c3c60f17f",
+      "logoURI": "",
+      "version": 5,
+      "verified": false,
+      "vendor": "GLOBAL MENTOR EXCHANGE"
     }
   ]
 }    
