@@ -1,3 +1,5 @@
+# Required steps
+
 ## Vision and concept
 
 It is imperative to establish a well-defined vision and concept for your memecoin. This is one of the jury's assessments
@@ -81,8 +83,6 @@ Wait for the PR to be accepted.
 
 > Congratulations. Your token has been created and added to our dashboard.
 
-# What next?
-
 ## Lock or burn your LP tokens
 
 Send LP tokens to zero address for burn
@@ -92,6 +92,8 @@ Send LP tokens to zero address for burn
 
 You can lock it use https://locker.venomoon.lol\
 (!) This is a dapp of an independent participant, it takes a commission 100 venom for use
+
+# What next (recommendations)?
 
 ## Set up Vesting 
 
