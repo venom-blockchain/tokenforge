@@ -14,7 +14,7 @@ https://venomwallet.com
 
 ## Timing of event 
 
-Start: 10:00, Apr 17.
+Start: 12:30 (UTC +4) Time, Apr 17.
 
 A team representative must confirm the team's participation in the hackathon at the event.
 
@@ -26,6 +26,6 @@ The team informs the organizers of the landing page address and/or information a
 
 The team informs the organizers of the contract address (TIP3 token root or NFT root).
 
-Submission deadline: 18:00, Apr 18.
+Submission deadline: 18:00(UTC +4), Apr 18.
 
-Award ceremony: 20:00, Apr 18.
+Award ceremony: 20:00(UTC +4), Apr 18.

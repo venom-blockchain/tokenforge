@@ -25,6 +25,17 @@
       "version": 5,
       "verified": true,
       "vendor": "venom"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 1,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0:8a4ed4483500caf2d4bb4b56c84df41009cc3d0ed6a9de05d853e26a30faeced",
+      "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/USDT/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
     }
   ]
 }
