@@ -69,6 +69,17 @@
       "version": 5,
       "verified": false,
       "vendor": "GLOBAL MENTOR EXCHANGE"
+    },
+    {
+      "name": "Kombutt",
+      "chainId": 1,
+      "symbol": "KBUTT",
+      "decimals": 6,
+      "address": "0:e6a2ced860ba3e430d9649ff8d434bd91b40a0baab53fd8c3b86ed904c5d103c",
+      "logoURI": "https://files.kombutt.wtf/images/icon.png",
+      "version": 5,
+      "verified": false,
+      "vendor": "Cedro 3.0"
     }
   ]
 }    
