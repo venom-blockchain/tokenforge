@@ -80,6 +80,17 @@
       "version": 5,
       "verified": false,
       "vendor": "Cedro 3.0"
+    },
+    {
+      "name": "Assetant",
+      "chainId": 1,
+      "symbol": "ASSET",
+      "decimals": 18,
+      "address": "0:06b93a36d48a7391381d3d73e1b8544fa6a27aded10c852a50a671473e52a551",
+      "logoURI": "https://raw.githubusercontent.com/Assetant/frontend-site/main/images/assetant_logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "Assetant"
     }
   ]
 }    
