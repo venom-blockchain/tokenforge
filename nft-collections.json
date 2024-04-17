@@ -15,6 +15,22 @@
         }
       ],
       "external_url": "https://catnitizen.com"
+    },
+    {
+      "address": "0:f283ba1b50a520b591f241a8e56ee4b3207d36a7ded0abef0e0f17c8a44ab3fc",
+      "title": "Venom-Punks.com",
+      "description": "The first Genesis NFT collection launched on the Venom Blockchain.",
+      "preview": {
+        "source": "https://api.venom-punks.com/generatedBig/666_big.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://api.venom-punks.com/generatedBig/666_big.png",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://venom-punks.com/"
     }
   ]
 }
