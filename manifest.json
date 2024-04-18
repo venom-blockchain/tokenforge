@@ -134,10 +134,8 @@
       "verified": false,
       "vendor": "spartacats",
       "external_url":"https://spartacats.com/"
-    }
-  ]
-}    
-{
+    },
+    {
       "name": "ALPHA",
       "chainId": 1,
       "symbol": "ALPHA",
@@ -148,4 +146,7 @@
       "verified": false,
       "vendor": "Alpha Venom",
       "external_url":"https://twitter.com/AlphaVenom_"
-    },
+    }
+  ]
+}    
+
