@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "address": "0:d3061708465f52e3e3e95647c1653226e829d59225ca13c3c3f2800eae2a7fcf",
-      "title": "Alpha Venom",
-      "description": "The Alpha Venom NFT is a digital collection inspired by the alpha hunter concept of the Venom network. The style and atmosphere are reminiscent of the attributes of a predator infiltrating the world of crypto art. These digital works represent strength, determination and individuality, bringing the spirit of exploration to the world of NFTs.",
-      "preview": {
-        "source": "https://ipfs.io/ipfs/QmSUi63TvoQzycrs1oZvyfvexVAfNeGtta6R9etBc2DF7L/venom_alpha.gif",
-        "mimetype": "image/png"
-      },
-      "files": [
-        {
-          "source": "https://ipfs.io/ipfs/QmSUi63TvoQzycrs1oZvyfvexVAfNeGtta6R9etBc2DF7L/venom_alpha.gif",
-          "mimetype": "image/png"
-        }
-      ],
-      "external_url": "https://twitter.com/AlphaVenom_"
-    },
-    {
       "address": "0:2172fdf5a4091b90aeacc2003a61a82f27d743aa7b5426711d9fa48036b8f59e",
       "title": "RRRaffle",
       "description": "A Lottery NFT Collection featuring 2,222 items! Each NFT Offers an exciting opportunity 🎁 To Win 🎁 1 Prize from The Prize Pool (~$6000), EVERYDAY, FOR 30 DAYS, Starting Right After All Items Are Minted! ",
