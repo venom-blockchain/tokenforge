@@ -13,11 +13,13 @@ Venom don't have UI builder for NFT. You need to use scripts for create and mint
 **Collection**
 
 For `preview` - we recommend: ratio 1:1, recommended dimensions 1000x1000px, jpeg, size less 200Kb. 
+
 For `files`  - we recommend: 4:1 ratio, recommended dimensions 4000x1000px, jpeg.
 
 **NFT**
 
 For `preview` - we recommend: recommended dimensions 512x512, ratio 1:1, jpeg, size no more than 200Kb.
+
 For `files` - as main file it may be pdf, docs, jpeg, gif, png, audio, video
 
 **You can mint NFT collection from json file**
