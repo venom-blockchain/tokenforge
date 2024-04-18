@@ -26,6 +26,8 @@ The team informs the organizers of the landing page address and/or information a
 
 The team informs the organizers of the contract address (TIP3 token root or NFT root).
 
-Submission deadline: 18:00(UTC +4), Apr 18.
+~~Submission deadline: 18:00(UTC +4), Apr 18.~~ 
 
-Award ceremony: 20:00(UTC +4), Apr 18.
+~~Award ceremony: 20:00(UTC +4), Apr 18.~~
+
+Dear friends, due to unexpected heavy rains in Dubai we have extended the hackathon until 24.04 23:59, GMT+4 and include online participation. Join in, no matter where you are!
