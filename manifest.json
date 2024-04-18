@@ -24,7 +24,8 @@
       "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/WVENOM/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "venom"
+      "vendor": "venom",
+      "external_url":""
     },
     {
       "name": "Tether USD",
@@ -35,7 +36,8 @@
       "logoURI": "https://cdn.venom.foundation/assets/mainnet/icons/USDT/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "venom"
+      "vendor": "venom",
+      "external_url":""
     },
      {
       "name": "Cat Nitizen",
@@ -46,7 +48,8 @@
       "logoURI": "https://catnitizen.com/image/logo.svg",
       "version": 5,
       "verified": false,
-      "vendor": "Cat Nitizen Indonesia"
+      "vendor": "Cat Nitizen Indonesia",
+      "external_url":""
     },
     {
       "name": "NomVe",
@@ -57,7 +60,8 @@
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/venom/0:2bad9d702819b3ca94759e914a3257a7e23a0be9f9d43534a914d7c4c0d9ab10.png?size=lg&key=0c527a",
       "version": 5,
       "verified": false,
-      "vendor": "Masko"
+      "vendor": "Masko",
+      "external_url":""
     },
     {
       "name": "Mentor AI",
@@ -68,7 +72,8 @@
       "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/AI-MENTR/logo.png",
       "version": 5,
       "verified": false,
-      "vendor": "GLOBAL MENTOR EXCHANGE"
+      "vendor": "GLOBAL MENTOR EXCHANGE",
+      "external_url":""
     },
     {
       "name": "Kombutt",
@@ -79,7 +84,8 @@
       "logoURI": "https://files.kombutt.wtf/images/icon.png",
       "version": 5,
       "verified": false,
-      "vendor": "Cedro 3.0"
+      "vendor": "Cedro 3.0",
+      "external_url":""
     },
     {
       "name": "Assetant",
@@ -90,7 +96,8 @@
       "logoURI": "https://raw.githubusercontent.com/Assetant/frontend-site/main/images/assetant_logo.svg",
       "version": 5,
       "verified": false,
-      "vendor": "Assetant"
+      "vendor": "Assetant",
+      "external_url":""
     },
     {
       "name": "Cobra Venom",
@@ -101,7 +108,8 @@
       "logoURI": "https://i.imgur.com/Jh6qbx6.jpeg",
       "version": 5,
       "verified": false,
-      "vendor": "Team COBRA"
+      "vendor": "Team COBRA",
+      "external_url":""
     }
   ]
 }    
