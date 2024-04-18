@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "address": "0:d068dfc3a575a0806958af3b6667f98e6acc19812c1249cdd64461da265eb279",
-      "title": "Cat.id | Venom",
-      "description": "Proof of membership from cat lovers created on the Venom network, only selected people have it.",
-      "preview": {
-        "source": "https://catnitizen.com/image/nft/catidcard.png",
-        "mimetype": "image/png"
-      },
-      "files": [
-        {
-          "source": "https://catnitizen.com/image/nft/catidcard.png",
-          "mimetype": "image/png"
-        }
-      ],
-      "external_url": "https://catnitizen.com"
-    },
-    {
       "address": "0:d3061708465f52e3e3e95647c1653226e829d59225ca13c3c3f2800eae2a7fcf",
       "title": "Alpha Venom",
       "description": "The Alpha Venom NFT is a digital collection inspired by the alpha hunter concept of the Venom network. The style and atmosphere are reminiscent of the attributes of a predator infiltrating the world of crypto art. These digital works represent strength, determination and individuality, bringing the spirit of exploration to the world of NFTs.",
