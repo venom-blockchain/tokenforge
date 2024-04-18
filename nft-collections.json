@@ -15,6 +15,22 @@
         }
       ],
       "external_url": "https://catnitizen.com"
+    },
+    {
+      "address": "0:d3061708465f52e3e3e95647c1653226e829d59225ca13c3c3f2800eae2a7fcf",
+      "title": "Alpha Venom",
+      "description": "The Alpha Venom NFT is a digital collection inspired by the alpha hunter concept of the Venom network. The style and atmosphere are reminiscent of the attributes of a predator infiltrating the world of crypto art. These digital works represent strength, determination and individuality, bringing the spirit of exploration to the world of NFTs.",
+      "preview": {
+        "source": "https://ipfs.io/ipfs/QmSUi63TvoQzycrs1oZvyfvexVAfNeGtta6R9etBc2DF7L/venom_alpha.gif",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://ipfs.io/ipfs/QmSUi63TvoQzycrs1oZvyfvexVAfNeGtta6R9etBc2DF7L/venom_alpha.gif",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://twitter.com/AlphaVenom_"
     }
   ]
 }
