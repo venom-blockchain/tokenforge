@@ -112,6 +112,18 @@
       "external_url":""
     },
     {
+      "name": "MAU Coin",
+      "chainId": 1,
+      "symbol": "MAU",
+      "decimals": 18,
+      "address": "0:d7f3e31982a8000b7d3d613a9e9c3fab79f675b79c3db3825595091ee70b3ffd",
+      "logoURI": "https://venom-token.s3.amazonaws.com/mau-coin.png",
+      "version": 5,
+      "verified": false,
+      "vendor": "HaHa Team",
+      "external_url": "https://mautoken.xyz/"
+    },
+    {
       "name": "STUNT COQ on VENOM",
       "chainId": 1,
       "symbol": "STUNT",
