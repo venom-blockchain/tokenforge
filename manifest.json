@@ -110,6 +110,18 @@
       "verified": false,
       "vendor": "Team COBRA",
       "external_url":""
+    },
+    {
+      "name": "STUNT COQ on VENOM",
+      "chainId": 1,
+      "symbol": "STUNT",
+      "decimals": 18,
+      "address": "0:2e0299e1c7230b8880edea2c10aff43c188b8cf9d973ad43dc9f81b6e696c888",
+      "logoURI": "",
+      "version": 5,
+      "verified": false,
+      "vendor": "STUNT",
+      "external_url":"https://stuntcoq.com"
     }
   ]
 }    
