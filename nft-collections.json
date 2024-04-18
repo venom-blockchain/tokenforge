@@ -1,20 +1,15 @@
 {
   "items": [
     {
-      "address": "0:d068dfc3a575a0806958af3b6667f98e6acc19812c1249cdd64461da265eb279",
-      "title": "Cat.id | Venom",
-      "description": "Proof of membership from cat lovers created on the Venom network, only selected people have it.",
+      "address": "0:2172fdf5a4091b90aeacc2003a61a82f27d743aa7b5426711d9fa48036b8f59e",
+      "title": "RRRaffle",
+      "description": "A Lottery NFT Collection featuring 2,222 items! Each NFT Offers an exciting opportunity 🎁 To Win 🎁 1 Prize from The Prize Pool (~$6000), EVERYDAY, FOR 30 DAYS, Starting Right After All Items Are Minted! ",
       "preview": {
-        "source": "https://catnitizen.com/image/nft/catidcard.png",
-        "mimetype": "image/png"
+        "source": "https://ipfs.io/ipfs/Qmb1Qr55YGtC1FEuMuKHhGjthX7Sht3ihmB8nQDFervKDC/rrraffle-collection.jpg",
+        "mimetype": "image/jpeg"
       },
-      "files": [
-        {
-          "source": "https://catnitizen.com/image/nft/catidcard.png",
-          "mimetype": "image/png"
-        }
-      ],
-      "external_url": "https://catnitizen.com"
+      "files": [],
+      "external_url": "https://venomid.network/rrraffle"
     }
   ]
 }
