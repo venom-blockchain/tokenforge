@@ -129,7 +129,7 @@
       "symbol": "PURR",
       "decimals": 9,
       "address": "0:3a26c7d83b44dcb80818898a0846411db1446071725de8d77c706f8a56ee45a8",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/PURR/logo.jpg",
       "version": 5,
       "verified": false,
       "vendor": "spartacats",
