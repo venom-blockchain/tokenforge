@@ -112,6 +112,18 @@
       "external_url":""
     },
     {
+      "name": "MAU Coin",
+      "chainId": 1,
+      "symbol": "MAU",
+      "decimals": 18,
+      "address": "0:d7f3e31982a8000b7d3d613a9e9c3fab79f675b79c3db3825595091ee70b3ffd",
+      "logoURI": "https://venom-token.s3.amazonaws.com/mau-coin.png",
+      "version": 5,
+      "verified": false,
+      "vendor": "HaHa Team",
+      "external_url": "https://mautoken.xyz/"
+    },
+    {
       "name": "STUNT COQ on VENOM",
       "chainId": 1,
       "symbol": "STUNT",
@@ -124,16 +136,16 @@
       "external_url":"https://stuntcoq.com"
     },
     {
-      "name": "MAU Coin",
+      "name": "Sparta Cats",
       "chainId": 1,
-      "symbol": "MAU",
-      "decimals": 18,
-      "address": "0:d7f3e31982a8000b7d3d613a9e9c3fab79f675b79c3db3825595091ee70b3ffd",
-      "logoURI": "https://venom-token.s3.amazonaws.com/mau-coin.png",
+      "symbol": "PURR",
+      "decimals": 9,
+      "address": "0:3a26c7d83b44dcb80818898a0846411db1446071725de8d77c706f8a56ee45a8",
+      "logoURI": "https://raw.githubusercontent.com/venom-blockchain/tokenforge/master/icons/PURR/logo.jpg",
       "version": 5,
       "verified": false,
-      "vendor": "HaHa Team",
-      "external_url": "https://mautoken.xyz/"
+      "vendor": "spartacats",
+      "external_url":"https://spartacats.com/"
     }
   ]
 }    
