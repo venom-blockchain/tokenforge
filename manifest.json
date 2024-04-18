@@ -122,9 +122,9 @@
       "verified": false,
       "vendor": "STUNT",
       "external_url":"https://stuntcoq.com"
-    }
+    },
     {
-      "name": "SpartaCats",
+      "name": "Sparta Cats",
       "chainId": 1,
       "symbol": "PURR",
       "decimals": 9,
