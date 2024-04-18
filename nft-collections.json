@@ -18,3 +18,24 @@
     }
   ]
 }
+{
+  "items": [
+    {
+      "address": "0:6002b4bc01fc1457b19ffb0d475b7042e0c49e5bfd265ffc86945a14c3a63dde",
+      "title": "Venom Yacht Club",
+      "description": "The Yacht Club is a luxurious haven for lovers of sea adventures.Enjoy the freedom of wind and waves.",
+      "preview": {
+        "source": "https://ipfs.ventory.gg/ventory/upload/ezgif_com_animated_gif_maker_1_dc0cb3a2d3.gif",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://ipfs.ventory.gg/ventory/upload/ezgif_com_animated_gif_maker_1_dc0cb3a2d3.gif",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://www.venomyachtclub.com/"
+    }
+  ]
+}
+
