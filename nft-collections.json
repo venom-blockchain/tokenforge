@@ -31,6 +31,17 @@
         }
       ],
       "external_url": "https://twitter.com/AlphaVenom_"
+    },
+    {
+      "address": "0:2172fdf5a4091b90aeacc2003a61a82f27d743aa7b5426711d9fa48036b8f59e",
+      "title": "RRRaffle",
+      "description": "A Lottery NFT Collection featuring 2,222 items! Each NFT Offers an exciting opportunity 🎁 To Win 🎁 1 Prize from The Prize Pool (~$6000), EVERYDAY, FOR 30 DAYS, Starting Right After All Items Are Minted! ",
+      "preview": {
+        "source": "https://ipfs.io/ipfs/Qmb1Qr55YGtC1FEuMuKHhGjthX7Sht3ihmB8nQDFervKDC/rrraffle-collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [],
+      "external_url": "https://venomid.network/rrraffle"
     }
   ]
 }
