@@ -91,6 +91,17 @@
       "version": 5,
       "verified": false,
       "vendor": "Assetant"
+    },
+    {
+      "name": "Cobra Venom",
+      "chainId": 1,
+      "symbol": "COBRA",
+      "decimals": 18,
+      "address": "0:4457850e978f990cea107d40e271b2a51ce54215c6af0f0e7b377c358a83ee3b",
+      "logoURI": "https://i.imgur.com/Jh6qbx6.jpeg",
+      "version": 5,
+      "verified": false,
+      "vendor": "Team COBRA"
     }
   ]
 }    
