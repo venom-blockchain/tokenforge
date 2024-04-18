@@ -146,6 +146,19 @@
       "verified": false,
       "vendor": "spartacats",
       "external_url":"https://spartacats.com/"
+    },
+    {
+      "name": "ALPHA",
+      "chainId": 1,
+      "symbol": "ALPHA",
+      "decimals": 9,
+      "address": "0:0d865f7834c7fcfcc35e2aa137aa016d96a749482d5988c167a34ab80c409c0d",
+      "logoURI": "https://impulsefinance.s3.us-east-1.amazonaws.com/images/1713452291849wsetre.PNG",
+      "version": 5,
+      "verified": false,
+      "vendor": "Alpha Venom",
+      "external_url":"https://twitter.com/AlphaVenom_"
     }
   ]
 }    
+
