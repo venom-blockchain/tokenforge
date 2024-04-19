@@ -169,6 +169,18 @@
       "version": 5,
       "verified": false,
       "vendor": "Venom Yacht Club"
+    },
+    {
+      "name": "Venom Viper",
+      "chainId": 1,
+      "symbol": "VIPER",
+      "decimals": 9,
+      "address": "0:03d8686b8a5b76534f27fd7931cad9aa3e4e25bf93fe07356b120d13b0f13f00",
+      "logoURI": "https://nftstorage.link/ipfs/bafkreidbkcxg2rlqpa3wkk4umjzv7guog24yacfmas2rkcsmzmty53oiku",
+      "version": 5,
+      "verified": false,
+      "vendor": "Venom Viper"
+      "external_url":"https://venomviper.xyz"
     }
   ]
 }    
