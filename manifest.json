@@ -168,7 +168,8 @@
       "logoURI": "https://impulsefinance.s3.us-east-1.amazonaws.com/images/1711562908128venyacht.PNG",
       "version": 5,
       "verified": false,
-      "vendor": "Venom Yacht Club"
+      "vendor": "Venom Yacht Club",
+      "external_url":"https://www.venomyachtclub.com/"
     },
     {
       "name": "War Dawg",
@@ -179,7 +180,8 @@
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/venom/0:858de3d6b7b3f0b53e57a896f8745a8f38663f3e30ce605567c148a0fa39eb5a.png?size=lg&key=0c527a",
       "version": 5,
       "verified": false,
-      "vendor": "TheWarDawgs"
+      "vendor": "TheWarDawgs",
+      "external_url":""
     }
   ]
 }    
