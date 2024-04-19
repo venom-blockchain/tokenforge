@@ -169,6 +169,17 @@
       "version": 5,
       "verified": false,
       "vendor": "Venom Yacht Club"
+    },
+    {
+      "name": "War Dawg",
+      "chainId": 1,
+      "symbol": "G",
+      "decimals": 5,
+      "address": "0:858de3d6b7b3f0b53e57a896f8745a8f38663f3e30ce605567c148a0fa39eb5a",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/venom/0:858de3d6b7b3f0b53e57a896f8745a8f38663f3e30ce605567c148a0fa39eb5a.png?size=lg&key=0c527a",
+      "version": 5,
+      "verified": false,
+      "vendor": "TheWarDawgs"
     }
   ]
 }    
