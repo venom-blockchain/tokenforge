@@ -182,7 +182,20 @@
       "verified": false,
       "vendor": "TheWarDawgs",
       "external_url":""
+    },
+    {
+      "name": "WoodyPeckCoin",
+      "chainId": 1,
+      "symbol": "WPC",
+      "decimals": 9,
+      "address": "0:4f8acf1023c9fb2222bba5c1ee1045ba16e0c618a439849ada90dc800626ae26",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/15921290/48c53b97-ed1e-4908-89fd-834ea215fecd",
+      "version": 5,
+      "verified": false,
+      "vendor": "WoodyTeam",
+      "external_url":"https://woodypeckcoin.wixsite.com/woodypeck-coin"
     }
+
   ]
 }    
 
