@@ -21,6 +21,22 @@
       },
       "files": [],
       "external_url": "https://VenomApes.com"
+    },
+    {
+      "address": "0:1ef57a435d7c0306051d1a05965496def5609b5304ae44ac1d54a5bd85a1389c",
+      "title": "Serpaints",
+      "description": "Explore our curated selection of NFTs, where each piece showcases the Serpents' mastery of different art styles, from classical to contemporary, abstract to hyperrealism. Witness the serpent's journey through the realms of art, as they slither gracefully across digital canvases, leaving behind a trail of mesmerizing visuals and boundless creativity.",
+      "preview": {
+        "source": "https://bafybeiewsvvb3nktrfvhklfvoec4rt2zmvlarsrajsphrutyfmuqb42xni.ipfs.w3s.link/Logo.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://bafybeiewsvvb3nktrfvhklfvoec4rt2zmvlarsrajsphrutyfmuqb42xni.ipfs.w3s.link/Logo.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": "https://serpaint.art"
     }
   ]
 }
