@@ -25,7 +25,7 @@
       "version": 5,
       "verified": true,
       "vendor": "venom",
-      "external_url":""
+      "external_url": ""
     },
     {
       "name": "Tether USD",
@@ -37,9 +37,9 @@
       "version": 5,
       "verified": true,
       "vendor": "venom",
-      "external_url":""
+      "external_url": ""
     },
-     {
+    {
       "name": "Cat Nitizen",
       "chainId": 1,
       "symbol": "CATID",
@@ -49,7 +49,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Cat Nitizen Indonesia",
-      "external_url":"https://catnitizen.com"
+      "external_url": "https://catnitizen.com"
     },
     {
       "name": "NomVe",
@@ -61,7 +61,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Masko",
-      "external_url":"https://nomvenom.com/"
+      "external_url": "https://nomvenom.com/"
     },
     {
       "name": "Mentor AI",
@@ -73,7 +73,7 @@
       "version": 5,
       "verified": false,
       "vendor": "GLOBAL MENTOR EXCHANGE",
-      "external_url":"https://globalmentor.ai/"
+      "external_url": "https://globalmentor.ai/"
     },
     {
       "name": "Kombutt",
@@ -85,7 +85,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Cedro 3.0",
-      "external_url":"https://kombutt.wtf/"
+      "external_url": "https://kombutt.wtf/"
     },
     {
       "name": "Assetant",
@@ -97,7 +97,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Assetant",
-      "external_url":"https://assetant.xyz/"
+      "external_url": "https://assetant.xyz/"
     },
     {
       "name": "Cobra Venom",
@@ -109,7 +109,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Team COBRA",
-      "external_url":""
+      "external_url": ""
     },
     {
       "name": "MAU Coin",
@@ -133,7 +133,7 @@
       "version": 5,
       "verified": false,
       "vendor": "STUNT",
-      "external_url":"https://stuntcoq.com"
+      "external_url": "https://stuntcoq.com"
     },
     {
       "name": "Sparta Cats",
@@ -145,7 +145,7 @@
       "version": 5,
       "verified": false,
       "vendor": "spartacats",
-      "external_url":"https://spartacats.com/"
+      "external_url": "https://spartacats.com/"
     },
     {
       "name": "ALPHA",
@@ -157,7 +157,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Alpha Venom",
-      "external_url":"https://twitter.com/AlphaVenom_"
+      "external_url": "https://twitter.com/AlphaVenom_"
     },
     {
       "name": "VenYacht",
@@ -169,7 +169,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Venom Yacht Club",
-      "external_url":"https://www.venomyachtclub.com/"
+      "external_url": "https://www.venomyachtclub.com/"
     },
     {
       "name": "War Dawg",
@@ -181,7 +181,7 @@
       "version": 5,
       "verified": false,
       "vendor": "TheWarDawgs",
-      "external_url":""
+      "external_url": ""
     },
     {
       "name": "WoodyPeckCoin",
@@ -193,7 +193,7 @@
       "version": 5,
       "verified": false,
       "vendor": "WoodyTeam",
-      "external_url":"https://woodypeckcoin.wixsite.com/woodypeck-coin"
+      "external_url": "https://woodypeckcoin.wixsite.com/woodypeck-coin"
     },
     {
       "name": "Whatever Coin",
@@ -216,8 +216,19 @@
       "version": 5,
       "verified": false,
       "vendor": "ViperTeam",
-      "external_url":"https://venomviper.xyz"
+      "external_url": "https://venomviper.xyz"
+    },
+    {
+      "name": "Smile",
+      "chainId": 1,
+      "symbol": "Smile",
+      "decimals": 18,
+      "address": "0:c0f8763c2e241c7cc5723ba8bfcb46d2e0446e743eb43dc854e81eeaf9ee6f3c",
+      "logoURI": "https://media.discordapp.net/attachments/1084856392260784230/1231712796715122792/smile-tokenforge.png?ex=6637f4ee&is=66257fee&hm=49d1fe3298b89f9cb1c7dd7df990642e68aadda552569172d7222231fa12cff0&=&format=webp&quality=lossless",
+      "version": 5,
+      "verified": false,
+      "vendor": "Grizzy",
+      "external_url": "smileonvenom.eu"
     }
   ]
-}    
-
+}
