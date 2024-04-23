@@ -241,6 +241,18 @@
       "verified": false,
       "vendor": "Team Eddie",
       "external_url": "https://eddiebrockcoin.com/"
+    },
+    {
+      "name": "YES Coin",
+      "chainId": 1,
+      "symbol": "YES",
+      "decimals": 8,
+      "address": "0:520d6940cc4a3c442f81e93880ece56717ceb206a856f1f92314426ecc3dc17c",
+      "logoURI": "https://optim.tildacdn.com/tild3564-6531-4233-b731-313337343762/-/resize/664x/-/format/webp/Ycoin__1.png",
+      "version": 5,
+      "verified": false,
+      "vendor": "Yes-Coin.com TEAM",
+      "external_url": "https://yes-coin.com/"
     }
   ]
 }
