@@ -229,6 +229,18 @@
       "verified": false,
       "vendor": "Grizzy",
       "external_url": "smileonvenom.eu"
+    },
+    {
+      "name": "Eddie Brock",
+      "chainId": 1,
+      "symbol": "EDDIE",
+      "decimals": 18,
+      "address": "0:3042c07ebd6ea26bf22b1d3df9467c4159ae19e56fecf13a460b6270eaa3c8cd",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/venom/0:3042c07ebd6ea26bf22b1d3df9467c4159ae19e56fecf13a460b6270eaa3c8cd.png?size=lg&key=f1cddc",
+      "version": 5,
+      "verified": false,
+      "vendor": "Team Eddie",
+      "external_url": "https://eddiebrockcoin.com/"
     }
   ]
 }
