@@ -241,6 +241,17 @@
       "verified": false,
       "vendor": "Team Eddie",
       "external_url": "https://eddiebrockcoin.com/"
+    },    
+    {
+      "name": "Pudge Coin",
+      "chainId": 1,
+      "symbol": "PUDGE",
+      "decimals": 18,
+      "address": "0:4b3307d4ad87299ebbbfd1b0492ddf17f3814fc4a2fa090444b3867731d08b83",
+      "logoURI": "https://raw.githubusercontent.com/newtempleee/tokenforge/main/icons/PUDGE/logo.jpg",
+      "version": 5,
+      "verified": false,
+      "vendor": "Team Pudge"
     }
   ]
 }
