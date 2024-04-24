@@ -266,6 +266,102 @@
       "external_url": "https://yes-coin.com/"
     },
     {
+      "name": "VenoMoose",
+      "chainId": 1,
+      "symbol": "VMS",
+      "decimals": 18,
+      "address": "0:99467cacdaabe60c848a1972e56e8d2bab405d18a50e8ef2a59346da7961834e",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157858844/51cc5b61-2eba-47b8-92b6-ff3b9c792971",
+      "version": 5,
+      "verified": false,
+      "vendor": "VenoMoose TEAM",
+      "external_url": "https://venomoose.xyz/"
+    },
+    {
+      "name": "Poison Dog",
+      "chainId": 1,
+      "symbol": "PDG",
+      "decimals": 9,
+      "address": "0:34aa75faecb7bcae0125994ab13dc172bd4f58daf5fe5a719151aea71da6318f",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157987703/6abb0fac-5abe-4dfc-a7cb-8dff035d1af7",
+      "version": 5,
+      "verified": false,
+      "vendor": "Poison Dog",
+      "external_url": "https://poisondog.monster"
+    },
+    {
+      "name": "Veve",
+      "chainId": 1,
+      "symbol": "VEVE",
+      "decimals": 9,
+      "address": "0:60a968df5008344f1949a60fd46e79753482ede3802924b9de0527b1295a6efc",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/151468292/74f2236b-ef8d-4545-8916-4d5771cf47f2",
+      "version": 5,
+      "verified": false,
+      "vendor": "Veve coin team",
+      "external_url": "https://veve.lol/"
+    },
+    {
+      "name": "Fox Finance",
+      "chainId": 1,
+      "symbol": "FF",
+      "decimals": 9,
+      "address": "0:457365811ed533a80f326314b0999ed60f29fd5b2bbcb7f0afbc8d04e36adc42",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/158855340/1b98626a-2ecf-4edd-866a-90cbcbba8e4a",
+      "version": 5,
+      "verified": false,
+      "vendor": "Fox Finance TEAM",
+      "external_url": "https://foxfinance.wtf/"
+    },
+    {
+      "name": "Venom PEPE",
+      "chainId": 1,
+      "symbol": "VPEPE",
+      "decimals": 9,
+      "address": "0:40cafa1d1fd2a1d2eda1511f2f50a54edd5bc0f228de6ef243b54d8b8708a720",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/145878061/76535798-782c-470e-a8fe-e2f42d6eb653",
+      "version": 5,
+      "verified": false,
+      "vendor": "Venom PEPE",
+      "external_url": "https://venompepe.xyz/"
+    },
+    {
+      "name": "Toast Token",
+      "chainId": 1,
+      "symbol": "TT",
+      "decimals": 9,
+      "address": "0:9b8750606d89183fed6b594a9b53143de92bc63ad05f2047b138a16c8da00ec4",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/152224453/8e5bb0e1-c16c-4cf3-9296-3ad9370e0ad1",
+      "version": 5,
+      "verified": false,
+      "vendor": "Toast Token Team",
+      "external_url": "https://toasttoken.xyz/"
+    },
+    {
+      "name": "MeMeow",
+      "chainId": 1,
+      "symbol": "MMW",
+      "decimals": 9,
+      "address": "0:feb4fc507b10dadd183d97bfac34ac2c3e1573ec03a3eac85342cdb988d2ccd2",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/154940880/60b8976b-1876-4647-8508-8112f9f2932a",
+      "version": 5,
+      "verified": false,
+      "vendor": "Me Meow team",
+      "external_url": "https://memeow.me/"
+    },
+    {
+      "name": "MeowMeow",
+      "chainId": 1,
+      "symbol": "MM",
+      "decimals": 9,
+      "address": "0:d0d67e65158f02dc25f3bf29f181f0935cedadeed3e90330a0465d4a0d9a336b",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157208224/4c252ae6-da08-4f0e-b561-3e38c6a7030d",
+      "version": 5,
+      "verified": false,
+      "vendor": "Meow Meow TEAM",
+      "external_url": "https://meowmeow.finance/"
+    },
+    {
       "name": "Yogurt Yield",
       "chainId": 1,
       "symbol": "YY",
@@ -275,7 +371,7 @@
       "version": 5,
       "verified": false,
       "vendor": "Yogurt TEAM",
-      "external_url": "https://yogurtyield.com//"
+      "external_url": "https://yogurtyield.com/"
     }
   ]
 }
