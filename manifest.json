@@ -266,6 +266,54 @@
       "external_url": "https://yes-coin.com/"
     },
     {
+      "name": "VenoMoose",
+      "chainId": 1,
+      "symbol": "VMS",
+      "decimals": 18,
+      "address": "0:99467cacdaabe60c848a1972e56e8d2bab405d18a50e8ef2a59346da7961834e",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157858844/51cc5b61-2eba-47b8-92b6-ff3b9c792971",
+      "version": 5,
+      "verified": false,
+      "vendor": "VenoMoose TEAM",
+      "external_url": "https://venomoose.xyz/"
+    },
+    {
+      "name": "Poison Dog",
+      "chainId": 1,
+      "symbol": "PDG",
+      "decimals": 9,
+      "address": "0:34aa75faecb7bcae0125994ab13dc172bd4f58daf5fe5a719151aea71da6318f",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157987703/6abb0fac-5abe-4dfc-a7cb-8dff035d1af7",
+      "version": 5,
+      "verified": false,
+      "vendor": "Poison Dog",
+      "external_url": "https://poisondog.monster"
+    },
+    {
+      "name": "Veve",
+      "chainId": 1,
+      "symbol": "VEVE",
+      "decimals": 9,
+      "address": "0:60a968df5008344f1949a60fd46e79753482ede3802924b9de0527b1295a6efc",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/151468292/74f2236b-ef8d-4545-8916-4d5771cf47f2",
+      "version": 5,
+      "verified": false,
+      "vendor": "Veve coin team",
+      "external_url": "https://veve.lol/"
+    },
+    {
+      "name": "Fox Finance",
+      "chainId": 1,
+      "symbol": "FF",
+      "decimals": 9,
+      "address": "0:457365811ed533a80f326314b0999ed60f29fd5b2bbcb7f0afbc8d04e36adc42",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/158855340/1b98626a-2ecf-4edd-866a-90cbcbba8e4a",
+      "version": 5,
+      "verified": false,
+      "vendor": "Fox Finance TEAM",
+      "external_url": "https://foxfinance.wtf/"
+    },
+    {
       "name": "Venom PEPE",
       "chainId": 1,
       "symbol": "VPEPE",
