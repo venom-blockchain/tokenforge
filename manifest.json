@@ -266,6 +266,18 @@
       "external_url": "https://yes-coin.com/"
     },
     {
+      "name": "VenoMoose",
+      "chainId": 1,
+      "symbol": "VMS",
+      "decimals": 18,
+      "address": "0:99467cacdaabe60c848a1972e56e8d2bab405d18a50e8ef2a59346da7961834e",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157858844/51cc5b61-2eba-47b8-92b6-ff3b9c792971",
+      "version": 5,
+      "verified": false,
+      "vendor": "VenoMoose TEAM",
+      "external_url": "https://venomoose.xyz/"
+    },
+    {
       "name": "Poison Dog",
       "chainId": 1,
       "symbol": "PDG",
