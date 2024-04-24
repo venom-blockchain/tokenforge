@@ -360,6 +360,18 @@
       "verified": false,
       "vendor": "Meow Meow TEAM",
       "external_url": "https://meowmeow.finance/"
+    },
+    {
+      "name": "Yogurt Yield",
+      "chainId": 1,
+      "symbol": "YY",
+      "decimals": 9,
+      "address": "0:6da480f6506cd02dcd18785b9628b679e649648a2c416c59930f8b5fc9af65d8",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/159212671/583986de-5b5a-47c0-96cb-632100ba833d",
+      "version": 5,
+      "verified": false,
+      "vendor": "Yogurt TEAM",
+      "external_url": "https://yogurtyield.com/"
     }
   ]
 }
