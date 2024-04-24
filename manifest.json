@@ -288,6 +288,18 @@
       "verified": false,
       "vendor": "Poison Dog",
       "external_url": "https://poisondog.monster"
+    },
+    {
+      "name": "Veve",
+      "chainId": 1,
+      "symbol": "VEVE",
+      "decimals": 9,
+      "address": "0:60a968df5008344f1949a60fd46e79753482ede3802924b9de0527b1295a6efc",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/151468292/74f2236b-ef8d-4545-8916-4d5771cf47f2",
+      "version": 5,
+      "verified": false,
+      "vendor": "Veve coin team",
+      "external_url": "https://veve.lol/"
     }
   ]
 }
