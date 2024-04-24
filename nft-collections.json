@@ -107,6 +107,22 @@
       },
       "files": [],
       "external_url": "https://venomfrogs.com"
+    },
+    {
+      "address": "0:33cdc5c22e384f2c1e27496e611246c2167c226b59c0bd00a49884f304a8ca07",
+      "title": "MEMETRIX",
+      "description": "Digital assets for the Memetrix ecosystem, uniquely crafted through AI, representing meme coins and used for strategic gameplay and trading.",
+      "preview": {
+        "source": "https://cdn.memetrix.art/icon.webp",
+        "mimetype": "image/webp"
+      },
+      "files": [
+        {
+          "source": "https://cdn.memetrix.art/icon.webp",
+          "mimetype": "image/webp"
+        }
+      ],
+      "external_url": "https://memetrix.art"
     }
   ]
 }
