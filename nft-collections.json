@@ -80,6 +80,22 @@
       },
       "files": [],
       "external_url": "https://venom-time.com/"
+    },
+    {
+      "address": "0:b6a0888d66cadbb5ef2304081271881b7cc2acbebe6f375310a3f77cba2e8a7e",
+      "title": "TRUE ESSENCE",
+      "description": "This collection is imbued with an intoxicating array of wildly fantastical colors, which transform ordinary vistas into the realms of otherworldly creatures. Each artwork deliberately obscures the line between good and evil, leaving viewers in suspense—uncertain whether they're beholding a charmingly whimsical character or a monster poised to unleash its venom at any moment…\n\nThis collection comes from Koozma Corbut, an artist who combines classical photography with modern visualization technologies to enrich his pieces with deep emotional resonance and cutting-edge visual flair.\n\nIn Q2 2024, buyers of NFTs will gain access to a service enabling them to download high-resolution originals of artworks. This addition will allow owners to physically print their digital pieces at any print shop, bringing Koozma Corbut's vibrant and fantastical creations from the digital realm into the tangible world. The link to the service will appear on his Instagram (https://www.instagram.com/koozma_corbut/), so stay tuned for updates!",
+      "preview": {
+        "source": "https://bafkreib67dzicdmtr2agvglmx7zg6tjjljmhuxctx4i2yx6nus2m4x7goq.ipfs.w3s.link",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://bafybeibw57hhien3nexx2emuxoap2k27jgpx7tgkja5huk22zigatfv4ve.ipfs.w3s.link",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": "https://www.instagram.com/koozma_corbut/"
     }
   ]
 }
