@@ -264,6 +264,18 @@
       "verified": false,
       "vendor": "Yes-Coin.com TEAM",
       "external_url": "https://yes-coin.com/"
+    },
+    {
+      "name": "Toast Token",
+      "chainId": 1,
+      "symbol": "TT",
+      "decimals": 9,
+      "address": "0:9b8750606d89183fed6b594a9b53143de92bc63ad05f2047b138a16c8da00ec4",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/152224453/8e5bb0e1-c16c-4cf3-9296-3ad9370e0ad1",
+      "version": 5,
+      "verified": false,
+      "vendor": "Toast Token Team",
+      "external_url": "https://toasttoken.xyz/"
     }
   ]
 }
