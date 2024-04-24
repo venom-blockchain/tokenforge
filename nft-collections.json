@@ -20,7 +20,8 @@
         "mimetype": "image/jpeg"
       },
       "files": [],
-      "external_url": "https://VenomApes.com"
+      "external_url": "https://VenomApes.com",
+      "mint_price": "10"
     },
     {
       "address": "0:1ef57a435d7c0306051d1a05965496def5609b5304ae44ac1d54a5bd85a1389c",
@@ -59,8 +60,8 @@
       "title": "Venom Rabbits",
       "description": "The Venom Rabbits collection has SEXY written all over it. 3333 Sexy generated Rabbits on Venom blockchain.",
       "preview": {
-          "source": "https://static.venomrabbits.com/mixed/596.png",
-          "mimetype": "image/png"
+        "source": "https://static.venomrabbits.com/mixed/596.png",
+        "mimetype": "image/png"
       },
       "files": [
         {
@@ -106,7 +107,40 @@
         "mimetype": "image/png"
       },
       "files": [],
-      "external_url": "https://venomfrogs.com"
+      "external_url": "https://venomfrogs.com",
+      "mint_price": "22.33"
+    },
+    {
+      "address": "0:b79f3ed15167a4ca8ffa97914437baefea7fb59b9ce5405a9e40412866464104",
+      "title": "LogoVenom",
+      "description": "Unique collection of 100 VENOM logos modified with AI",
+      "preview": {
+        "source": "https://logovenom.github.io/images/0.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://logovenom.github.io/images/0.png",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": "https://logovenom.github.io"
+    },
+    {
+      "address": "https://oasis.gallery/collection/0:5a38a95e1cf747bafb61009217eff486d3dd657d7c1006cd5d0e018852676803",
+      "title": "RING",
+      "description": "Welcome to \"Ring\" - the blockchain game that's more addictive than your favorite online quests and crypto investments combined!\nWe've cooked up mechanics so intuitive even a n00b could get it, all wrapped up in a plot juicier than a crypto pump and dump.\nEach NFT character in the \"Ring\" universe is as unique as your rarest loot drop, with their own style, stats, and snarky one-liners.\nFrom lucky breaks to risky moves, every hero's got their perks and pitfalls, so choose wisely: do you chase fast gains or opt for safety and stability?\nTeam up with your crew to stack those sats and level up together - because let's face it, solo play is for NPCs.\nWith plot twists unfolding across Europe's finest cities, your wit, cunning, and maybe just a dash of luck will be the keys to untangling our most mind-bending puzzles yet.\nOur goal? Equip you with everything you need to pwn the game and reach those sweet, sweet achievements. See you in the Ring 😏",
+      "preview": {
+        "source": "https://ring.mypinata.cloud/ipfs/QmYScm574BGtMz4jcdGRJKbUduL8RkbbJHJBhbvZJSoc1i/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://ring.mypinata.cloud/ipfs/QmYScm574BGtMz4jcdGRJKbUduL8RkbbJHJBhbvZJSoc1i/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
     }
   ]
 }
