@@ -39,16 +39,32 @@
       "external_url": "https://serpaint.art"
     },
     {
-      "address": "0:595854c64806ba184084f730a288c8869c66f9c612cfdaef80a5dc0d6b6a1737",
-      "title": "Venom Rabbits",
-      "description": "The Venom Rabbits collection has SEXY written all over it. 3333 Sexy generated Rabbits on Venom blockchain.",
+      "address": "0:453827c43ae3bb39c29b10b3b9113d0e83710431a576998a482f639c90761f3c",
+      "title": "Wifey Bob",
+      "description": "Honey, dinner is served.",
       "preview": {
-        "source": "https://static.venomrabbits.com/mixed/596.png",
+        "source": "https://wifey-bob.mypinata.cloud/ipfs/QmVgPLvTSg5dhPsp2doqeSgGxtvFUdhAMpMuR6TnqhXWCm/collection.jpg",
         "mimetype": "image/jpeg"
       },
       "files": [
         {
+          "source": "https://wifey-bob.mypinata.cloud/ipfs/QmVgPLvTSg5dhPsp2doqeSgGxtvFUdhAMpMuR6TnqhXWCm/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:595854c64806ba184084f730a288c8869c66f9c612cfdaef80a5dc0d6b6a1737",
+      "title": "Venom Rabbits",
+      "description": "The Venom Rabbits collection has SEXY written all over it. 3333 Sexy generated Rabbits on Venom blockchain.",
+      "preview": {
           "source": "https://static.venomrabbits.com/mixed/596.png",
+          "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://wifey-bob.mypinata.cloud/ipfs/QmVgPLvTSg5dhPsp2doqeSgGxtvFUdhAMpMuR6TnqhXWCm/background.jpg",
           "mimetype": "image/jpeg"
         }
       ],
