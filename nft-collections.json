@@ -109,6 +109,22 @@
       "files": [],
       "external_url": "https://venomfrogs.com",
       "mint_price": "22.33"
+    },
+    {
+      "address": "0:b79f3ed15167a4ca8ffa97914437baefea7fb59b9ce5405a9e40412866464104",
+      "title": "LogoVenom",
+      "description": "Unique collection of 100 VENOM logos modified with AI",
+      "preview": {
+        "source": "https://logovenom.github.io/images/0.png",
+        "mimetype": "image/png"
+      },
+       "files": [
+        {
+          "source": "https://logovenom.github.io/images/0.png",
+          "mimetype": "image/jpeg"
+        }
+       ],
+      "external_url": "https://logovenom.github.io"
     }
   ]
 }
