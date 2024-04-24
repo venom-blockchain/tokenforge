@@ -96,6 +96,17 @@
         }
       ],
       "external_url": "https://www.instagram.com/koozma_corbut/"
+    },
+    {
+      "address": "0:80a2a53b917c43134fecbfa1a347218a305ff7b6d21be387cdf28f026ea76202",
+      "title": "Venom Frogs",
+      "description": "Venom Frogs. No Promises. Maybe it is not only art.",
+      "preview": {
+        "source": "https://ipfs.io/ipfs/QmZakag9Z6zW2g3D4VZBWsYv95HHU9gxDhGVLXn6aaHLpU",
+        "mimetype": "image/png"
+      },
+      "files": [],
+      "external_url": "https://venomfrogs.com"
     }
   ]
 }
