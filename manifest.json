@@ -372,6 +372,18 @@
       "verified": false,
       "vendor": "Yogurt TEAM",
       "external_url": "https://yogurtyield.com/"
+    },
+    {
+      "name": "Origami Owl",
+      "chainId": 1,
+      "symbol": "OOL",
+      "decimals": 9,
+      "address": "0:3d0b70e8b12e6f84e001d2d3413fdb1c56fda6cc051d8728846346baef3d1181",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/158772625/2cf92ac3-1cca-4ded-ac93-e41007b1da73",
+      "version": 5,
+      "verified": false,
+      "vendor": "Origami Owl TEAM",
+      "external_url": "https://origamiowl.finance/"
     }
   ]
 }
