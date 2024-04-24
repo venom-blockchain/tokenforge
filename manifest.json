@@ -312,6 +312,18 @@
       "verified": false,
       "vendor": "Fox Finance TEAM",
       "external_url": "https://foxfinance.wtf/"
-    } 
+    },
+    {
+      "name": "Venom PEPE",
+      "chainId": 1,
+      "symbol": "VPEPE",
+      "decimals": 9,
+      "address": "0:40cafa1d1fd2a1d2eda1511f2f50a54edd5bc0f228de6ef243b54d8b8708a720",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/145878061/76535798-782c-470e-a8fe-e2f42d6eb653",
+      "version": 5,
+      "verified": false,
+      "vendor": "Venom PEPE",
+      "external_url": "https://venompepe.xyz/"
+    }
   ]
 }
