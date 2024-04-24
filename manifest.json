@@ -264,6 +264,18 @@
       "verified": false,
       "vendor": "Yes-Coin.com TEAM",
       "external_url": "https://yes-coin.com/"
+    },
+    {
+      "name": "Poison Dog",
+      "chainId": 1,
+      "symbol": "PDG",
+      "decimals": 9,
+      "address": "0:34aa75faecb7bcae0125994ab13dc172bd4f58daf5fe5a719151aea71da6318f",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/157987703/6abb0fac-5abe-4dfc-a7cb-8dff035d1af7",
+      "version": 5,
+      "verified": false,
+      "vendor": "Poison Dog",
+      "external_url": "https://poisondog.monster"
     }
   ]
 }
