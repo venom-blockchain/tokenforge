@@ -37,19 +37,17 @@
         }
       ],
       "external_url": "https://serpaint.art"
-    }
-{
-  "items": [
+    },
     {
       "address": "0:fb0f53fbb6f5008525cb9b1f7c456e6b26e61231a1decacf6d1931babdb717ad",
       "title": "Venom Time",
       "description": "Venom Time is a fusion of technology and art ",
       "preview": {
         "source": "https://ipfs.io/ipfs/QmbsgGCAfwZetPbmZjnsdtyfRK6PR2xehe68vYttetyTg8/watch.gif",
-        "mimetype": "image/jpeg"
+        "mimetype": "image/gif"
       },
       "files": [],
       "external_url": "https://venom-time.com/"
-    },
+    }
   ]
 }
