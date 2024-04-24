@@ -336,6 +336,18 @@
       "verified": false,
       "vendor": "Toast Token Team",
       "external_url": "https://toasttoken.xyz/"
+    },
+    {
+      "name": "MeMeow",
+      "chainId": 1,
+      "symbol": "MMW",
+      "decimals": 9,
+      "address": "0:feb4fc507b10dadd183d97bfac34ac2c3e1573ec03a3eac85342cdb988d2ccd2",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/154940880/60b8976b-1876-4647-8508-8112f9f2932a",
+      "version": 5,
+      "verified": false,
+      "vendor": "Me Meow team",
+      "external_url": "https://memeow.me/"
     }
   ]
 }
