@@ -20,7 +20,8 @@
         "mimetype": "image/jpeg"
       },
       "files": [],
-      "external_url": "https://VenomApes.com"
+      "external_url": "https://VenomApes.com",
+      "mint_price": "10"
     },
     {
       "address": "0:1ef57a435d7c0306051d1a05965496def5609b5304ae44ac1d54a5bd85a1389c",
@@ -106,7 +107,8 @@
         "mimetype": "image/png"
       },
       "files": [],
-      "external_url": "https://venomfrogs.com"
+      "external_url": "https://venomfrogs.com",
+      "mint_price": "22.33"
     }
   ]
 }
