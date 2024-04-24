@@ -264,6 +264,18 @@
       "verified": false,
       "vendor": "Yes-Coin.com TEAM",
       "external_url": "https://yes-coin.com/"
+    },
+    {
+      "name": "Fox Finance",
+      "chainId": 1,
+      "symbol": "FF",
+      "decimals": 9,
+      "address": "0:457365811ed533a80f326314b0999ed60f29fd5b2bbcb7f0afbc8d04e36adc42",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/158855340/1b98626a-2ecf-4edd-866a-90cbcbba8e4a",
+      "version": 5,
+      "verified": false,
+      "vendor": "Fox Finance TEAM",
+      "external_url": "https://foxfinance.wtf/"
     }
   ]
 }
