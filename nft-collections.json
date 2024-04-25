@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address":"0:20ad1d05677ec006cf25681dfb121479cb555d061f164f2f9ecf8d128344a363"
+      "title":"Burger Man"
+      "description": "These patties are ready to party.  It's time to let your taste buds (and your imagination) run wild.",
+    "preview": {
+      "source": "https://burger-man.mypinata.cloud/ipfs/QmZusgjJgFgeHS8eTEZ3jyj2WvxmPVSREyQyEQbbLfmZpA/collection.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "files": [
+      {
+        "source": "https://burger-man.mypinata.cloud/ipfs/QmZusgjJgFgeHS8eTEZ3jyj2WvxmPVSREyQyEQbbLfmZpA/background.jpg",
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "external_url": ""
     }
   ]
 }
