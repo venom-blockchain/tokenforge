@@ -384,6 +384,18 @@
       "verified": false,
       "vendor": "Origami Owl TEAM",
       "external_url": "https://origamiowl.finance/"
+    },
+    {
+      "name": "White Toro",
+      "chainId": 1,
+      "symbol": "WT",
+      "decimals": 18,
+      "address": "0:31c9705fd1bc9fb1775b865577ba7e60577371a81997d72e2e7c3d96969cbd29",
+      "logoURI": "https://venomwhitetoro.com/images/9ac1dd4326ee386ee45b867b3e215038.png",
+      "version": 5,
+      "verified": false,
+      "vendor": "PASTE",
+      "external_url": "https://venomwhitetoro.com/"
     }
   ]
 }
