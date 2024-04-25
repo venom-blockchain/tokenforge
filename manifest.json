@@ -251,7 +251,8 @@
       "logoURI": "https://raw.githubusercontent.com/newtempleee/tokenforge/main/icons/PUDGE/logo.jpg",
       "version": 5,
       "verified": false,
-      "vendor": "Team Pudge"
+      "vendor": "Team Pudge",
+      "external_url":"https://pudgecoin.lol/"
     },
     {
       "name": "YES Coin",
