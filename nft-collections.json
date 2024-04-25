@@ -366,6 +366,22 @@
       }
     ],
     "external_url": ""
-    }
+    },
+    {
+      "address": "0:a56806adf3555e80e9f118886c4a3d1dca9061bd6302bd675b653c72255c226e",
+      "title": "The Ocean Sirens",
+      "description": "In the depths of the ocean, a sisterhood of mermaids known as 'The Ocean Sirens' have united to safeguard the marine realm. With their enchanting voices and boundless wisdom, they navigate the underwater world, protecting its inhabitants and embarking on adventures together. Each mermaid brings her unique strengths and qualities to the sisterhood, forging an unbreakable bond as they uphold the beauty and balance of the sea.",
+      "preview": {
+        "source": "https://purple-definite-trout-798.mypinata.cloud/ipfs/QmNqvT15cWoiYX7PpwKzeLrwszMxaKEsJy4Wxg9rTL9p8X/logo.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+        "source": "https://purple-definite-trout-798.mypinata.cloud/ipfs/QmNqvT15cWoiYX7PpwKzeLrwszMxaKEsJy4Wxg9rTL9p8X/collection_wallpaper.jpg",
+        "mimetype": "image/jpeg"
+      }
+      ],
+      "external_url": ""
+    },
   ]
 }
