@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address":"0:fc3c386032bab48b5a9f2835f66d6827b7130de73ad514a279338e496a900e73",
+      "title":"MOAI",
+      "description": "Is he stoned or….a stone?",
+    "preview": {
+      "source": "https://moai.mypinata.cloud/ipfs/QmVfE6eLPdK7pW4Be3xfK2Zjsp65tATaXN8zGwaG8UgB2a/collection.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "files": [
+      {
+        "source": "https://moai.mypinata.cloud/ipfs/QmVfE6eLPdK7pW4Be3xfK2Zjsp65tATaXN8zGwaG8UgB2a/background.jpg",
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "external_url": ""
     }
   ]
 }
