@@ -285,6 +285,70 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address": "0:b72620ed0f4186127180c6c07863caf3bde5ff9838a2bbed8aec864c34176abd",
+      "title": "Venom Viperpunk",
+      "description": "10,000 Venom ViperPunks NFT Collection backed by $VIPER Token.",
+      "preview": {
+        "source": "https://ipfs.io/ipfs/bafybeifacv3shohqq7fvncypyumfxqxp7wcr7olcutie76to6h7dethltu/",
+        "mimetype": "image/gif"
+      },
+      "files": [
+        {
+          "source": "https://ipfs.io/ipfs/bafybeifacv3shohqq7fvncypyumfxqxp7wcr7olcutie76to6h7dethltu/",
+          "mimetype": "image/gif"
+        }
+      ],
+      "external_url": "https://viperpunk.io/"
+    },
+    {
+      "address": "0:372393af96be58f13fe4f3be1eca9474fe5029ebc8765fa167b95afad05f4854",
+      "title": "V Runes",
+      "description": "Fossils fuelling Venom est.2024",
+      "preview": {
+        "source": "https://venom-runes.mypinata.cloud/ipfs/QmVSRuqQaK95Y62RyAwxTLJHqTpibwAwa2abE2roLHaUoD/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://venom-runes.mypinata.cloud/ipfs/QmVSRuqQaK95Y62RyAwxTLJHqTpibwAwa2abE2roLHaUoD/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:b3a060c949c69e32f06e55fd6d3ccb45969348a28c910a19719c56769d40d714",
+      "title": "Bear Market Survivors",
+      "description": "We've laughed in the face of financial chaos. These are battle scars, a proof of our resilience. Immortalize your defiance, and let's ride Venom like there's no tomorrow.",
+      "preview": {
+        "source": "https://bear-market-survivors.mypinata.cloud/ipfs/QmYo4pRktRkDsvXrspePt2wbLo3yz2Z6bDhAwZgkcrwFMW/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://bear-market-survivors.mypinata.cloud/ipfs/QmYo4pRktRkDsvXrspePt2wbLo3yz2Z6bDhAwZgkcrwFMW/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:4d6c03bcb72d404873302d63f65051f19db620a818bff5fc64111fa1fcf85a3f",
+      "title": "Ape Club",
+      "description": "Straight from the streets into Venom. Ape in.",
+      "preview": {
+        "source": "https://ape-club.mypinata.cloud/ipfs/QmTjasMDrhh9eYtVaGCqFSbikr9XWTNv5ukEu5iY8VAtju/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://ape-club.mypinata.cloud/ipfs/QmTjasMDrhh9eYtVaGCqFSbikr9XWTNv5ukEu5iY8VAtju/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
     }
   ]
 }
