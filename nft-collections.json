@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address": "0:82eed7825cf2ecbc3238527b389d152bbc7a0367332778244aa6e07a405be35a",
+      "title": "Danger Pipboys",
+      "description": "Life after Venom-pocalypse. Enter at your own pr***t",
+      "preview": {
+        "source": "https://danger-pipboys.mypinata.cloud/ipfs/QmbkdavSSi12cDrrag5suDZsLKJg2rXHpUHai1akp9cUb9/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://danger-pipboys.mypinata.cloud/ipfs/QmbkdavSSi12cDrrag5suDZsLKJg2rXHpUHai1akp9cUb9/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
     }
   ]
 }
