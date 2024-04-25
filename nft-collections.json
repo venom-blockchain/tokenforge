@@ -192,7 +192,7 @@
     },
     {
       "address": "0:e0a4956e9831312e267c98afdc92e78ad96223456d3d28affd5d9005ac70c569",
-      "title": "Venomous Ladies ",
+      "title": "Venomous Ladies",
       "description": "Life in 3178 is not simple, and they have evolved - for better or for worse. Venomous, but still Ladys. Do you dare to own one?",
       "preview": {
         "source": "https://venomous-ladies.mypinata.cloud/ipfs/QmbCdnYvxWMdfxdoseDDqL9xCkTTSTgu3L3hW2shJdARpA/collection.jpg",
@@ -201,6 +201,86 @@
       "files": [
         {
           "source": "https://venomous-ladies.mypinata.cloud/ipfs/QmbCdnYvxWMdfxdoseDDqL9xCkTTSTgu3L3hW2shJdARpA/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:fc3c386032bab48b5a9f2835f66d6827b7130de73ad514a279338e496a900e73",
+      "title": "MOAI",
+      "description": "Is he stoned or….a stone?",
+      "preview": {
+        "source": "https://moai.mypinata.cloud/ipfs/QmVfE6eLPdK7pW4Be3xfK2Zjsp65tATaXN8zGwaG8UgB2a/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://moai.mypinata.cloud/ipfs/QmVfE6eLPdK7pW4Be3xfK2Zjsp65tATaXN8zGwaG8UgB2a/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:0412526af7cbf353f06b2f51944bf821c19a9231aa9ed0ae6f925e798d39fdc7",
+      "title": "KIDCASH",
+      "description": "If your father chose a kid, who would he choose instead of you?",
+      "preview": {
+        "source": "https://kidcash.mypinata.cloud/ipfs/QmSMFkPzJNW5DpwpSQouvUEtu8vtSMZFPJV1Bi5E1KHMzT/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://kidcash.mypinata.cloud/ipfs/QmSMFkPzJNW5DpwpSQouvUEtu8vtSMZFPJV1Bi5E1KHMzT/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:3337f303b90ee5b6ec0bb40fb037ab89056eb2629d7fafb4a678f66436fe9b06",
+      "title": "Turbo Traders",
+      "description": "In profit we trust. PUMPIT",
+      "preview": {
+        "source": "https://turbo-traders.mypinata.cloud/ipfs/QmQHEbLJt1Q8N3pB3hGWDcX5STT3gCq4xoBQY88wADRMBH/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://turbo-traders.mypinata.cloud/ipfs/QmQHEbLJt1Q8N3pB3hGWDcX5STT3gCq4xoBQY88wADRMBH/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:20ad1d05677ec006cf25681dfb121479cb555d061f164f2f9ecf8d128344a363",
+      "title": "Burger Man",
+      "description": "These patties are ready to party.  It's time to let your taste buds (and your imagination) run wild.",
+      "preview": {
+        "source": "https://burger-man.mypinata.cloud/ipfs/QmZusgjJgFgeHS8eTEZ3jyj2WvxmPVSREyQyEQbbLfmZpA/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://burger-man.mypinata.cloud/ipfs/QmZusgjJgFgeHS8eTEZ3jyj2WvxmPVSREyQyEQbbLfmZpA/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
+    },
+    {
+      "address": "0:82eed7825cf2ecbc3238527b389d152bbc7a0367332778244aa6e07a405be35a",
+      "title": "Danger Pipboys",
+      "description": "Life after Venom-pocalypse. Enter at your own pr***t",
+      "preview": {
+        "source": "https://danger-pipboys.mypinata.cloud/ipfs/QmbkdavSSi12cDrrag5suDZsLKJg2rXHpUHai1akp9cUb9/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://danger-pipboys.mypinata.cloud/ipfs/QmbkdavSSi12cDrrag5suDZsLKJg2rXHpUHai1akp9cUb9/background.jpg",
           "mimetype": "image/jpeg"
         }
       ],
