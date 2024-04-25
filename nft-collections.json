@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address": "0:0412526af7cbf353f06b2f51944bf821c19a9231aa9ed0ae6f925e798d39fdc7",
+      "title": "KIDCASH",
+      "description": "If your father chose a kid, who would he choose instead of you?",
+      "preview": {
+        "source": "https://kidcash.mypinata.cloud/ipfs/QmSMFkPzJNW5DpwpSQouvUEtu8vtSMZFPJV1Bi5E1KHMzT/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://kidcash.mypinata.cloud/ipfs/QmSMFkPzJNW5DpwpSQouvUEtu8vtSMZFPJV1Bi5E1KHMzT/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
     }
   ]
 }
