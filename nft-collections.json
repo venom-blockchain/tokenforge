@@ -69,8 +69,7 @@
           "mimetype": "image/png"
         }
       ],
-      "external_url": "https://VenomRabbits.com",
-      "mint_price": "20"
+      "external_url": "https://VenomRabbits.com"
     },
     {
       "address": "0:fb0f53fbb6f5008525cb9b1f7c456e6b26e61231a1decacf6d1931babdb717ad",
@@ -350,36 +349,20 @@
         }
       ],
       "external_url": ""
-    },
+    }
     {
-    "address": "0:db9c46c5738eea90bce46dd7b353e5022f98219916bac535b29f54f27773af6b",
-    "title": "Cyberpunk Tarot Cards",
-    "description": "The Cyberpunk Tarot Cards offer a unique twist on traditional tarot imagery, infusing the archetypal symbols with elements from the futuristic, dystopian world of cyberpunk.",
-    "preview": {
-        "source": "https://plum-leading-ferret-575.mypinata.cloud/ipfs/QmaJhdpc15xTpcxE5JJqRfzVNdx3oaj5GncjS4kbBofYBa",
-        "mimetype": "image/jpeg"
-    },
-    "files": [
-      {
-        "source": "https://plum-leading-ferret-575.mypinata.cloud/ipfs/QmVRnmwTPz3jGsx6RYEcCAWp4DGW93Qijji2gXHdyATcP8",
-        "mimetype": "image/jpeg"
-      }
-    ],
-    "external_url": ""
-    },
-    {
-      "address": "0:a56806adf3555e80e9f118886c4a3d1dca9061bd6302bd675b653c72255c226e",
-      "title": "The Ocean Sirens",
-      "description": "In the depths of the ocean, a sisterhood of mermaids known as 'The Ocean Sirens' have united to safeguard the marine realm. With their enchanting voices and boundless wisdom, they navigate the underwater world, protecting its inhabitants and embarking on adventures together. Each mermaid brings her unique strengths and qualities to the sisterhood, forging an unbreakable bond as they uphold the beauty and balance of the sea.",
+      "address": "0:fdb15fb42a507a2d2591f10ce527a5bd3b4be26bc86b0248d9f07630af1c63d8",
+      "title": "CATS",
+      "description": "the CATS decided to transfer to the canvases of artists",
       "preview": {
-        "source": "https://purple-definite-trout-798.mypinata.cloud/ipfs/QmNqvT15cWoiYX7PpwKzeLrwszMxaKEsJy4Wxg9rTL9p8X/logo.jpg",
+        "source": "https://black-advisory-caterpillar-915.mypinata.cloud/ipfs/QmYStXuwNE7dhvAKsGK2u77WWR62CDL1ZTjVHR4j3f2HK3?pinataGatewayToken=i4w8B3sTYaNwku3zwpf4Zfpn8jNkUxzxEkbuBvDqH7XM6mKIUMU_YeV07jGsUybr",
         "mimetype": "image/jpeg"
       },
       "files": [
         {
-        "source": "https://purple-definite-trout-798.mypinata.cloud/ipfs/QmNqvT15cWoiYX7PpwKzeLrwszMxaKEsJy4Wxg9rTL9p8X/collection_wallpaper.jpg",
-        "mimetype": "image/jpeg"
-      }
+          "source": ""https://black-advisory-caterpillar-915.mypinata.cloud/ipfs/QmShtHckgdXtbhsmUHL5Vr1k4DhAGaYX9oCdaBwdW5LFpd",
+          "mimetype": "image/jpeg"
+        }
       ],
       "external_url": ""
     }
