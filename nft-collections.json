@@ -69,7 +69,8 @@
           "mimetype": "image/png"
         }
       ],
-      "external_url": "https://VenomRabbits.com"
+      "external_url": "https://VenomRabbits.com",
+      "mint_price": "20"
     },
     {
       "address": "0:fb0f53fbb6f5008525cb9b1f7c456e6b26e61231a1decacf6d1931babdb717ad",
