@@ -349,6 +349,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+    "address": "0:db9c46c5738eea90bce46dd7b353e5022f98219916bac535b29f54f27773af6b",
+    "title": "Cyberpunk Tarot Cards",
+    "description": "The Cyberpunk Tarot Cards offer a unique twist on traditional tarot imagery, infusing the archetypal symbols with elements from the futuristic, dystopian world of cyberpunk.",
+    "preview": {
+        "source": "https://plum-leading-ferret-575.mypinata.cloud/ipfs/QmaJhdpc15xTpcxE5JJqRfzVNdx3oaj5GncjS4kbBofYBa",
+        "mimetype": "image/jpeg"
+    },
+    "files": [
+      {
+        "source": "https://plum-leading-ferret-575.mypinata.cloud/ipfs/QmVRnmwTPz3jGsx6RYEcCAWp4DGW93Qijji2gXHdyATcP8",
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "external_url": ""
     }
   ]
 }
