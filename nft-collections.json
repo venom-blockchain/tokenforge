@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address":"0:b3a060c949c69e32f06e55fd6d3ccb45969348a28c910a19719c56769d40d714",
+      "title":"Bear Market Survivors",
+      "description": "We've laughed in the face of financial chaos. These are battle scars, a proof of our resilience. Immortalize your defiance, and let's ride Venom like there's no tomorrow.",
+    "preview": {
+      "source": "https://bear-market-survivors.mypinata.cloud/ipfs/QmYo4pRktRkDsvXrspePt2wbLo3yz2Z6bDhAwZgkcrwFMW/collection.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "files": [
+      {
+        "source": "https://bear-market-survivors.mypinata.cloud/ipfs/QmYo4pRktRkDsvXrspePt2wbLo3yz2Z6bDhAwZgkcrwFMW/background.jpg",
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "external_url": ""
     }
   ]
 }
