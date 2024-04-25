@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address": "0:3337f303b90ee5b6ec0bb40fb037ab89056eb2629d7fafb4a678f66436fe9b06",
+      "title": "Turbo Traders",
+      "description": "In profit we trust. PUMPIT",
+      "preview": {
+        "source": "https://turbo-traders.mypinata.cloud/ipfs/QmQHEbLJt1Q8N3pB3hGWDcX5STT3gCq4xoBQY88wADRMBH/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://turbo-traders.mypinata.cloud/ipfs/QmQHEbLJt1Q8N3pB3hGWDcX5STT3gCq4xoBQY88wADRMBH/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
     }
   ]
 }
