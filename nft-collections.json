@@ -189,6 +189,22 @@
         }
       ],
       "external_url": ""
+    },
+    {
+      "address": "0:0412526af7cbf353f06b2f51944bf821c19a9231aa9ed0ae6f925e798d39fdc7",
+      "title": "KIDCASH",
+      "description": "Is he stoned or….a stone?",
+      "preview": {
+        "source": "https://moai.mypinata.cloud/ipfs/QmVfE6eLPdK7pW4Be3xfK2Zjsp65tATaXN8zGwaG8UgB2a/collection.jpg",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+          "source": "https://moai.mypinata.cloud/ipfs/QmVfE6eLPdK7pW4Be3xfK2Zjsp65tATaXN8zGwaG8UgB2a/background.jpg",
+          "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": ""
     }
   ]
 }
